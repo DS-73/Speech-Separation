@@ -1,0 +1,18 @@
+soundfile>=0.10.3.post1
+tqdm>=4.46.1
+pysndfx>=0.3.6
+pandas>=1.0.1
+numpy>=1.18.1
+pyloudnorm>=0.1.0
+scipy>=1.4.1
+matplotlib>=3.1.3
+
+
+pip install tqdm
+pip install pysndfx
+pip install pyloudnorm
+pip install soundfile==0.10.3.post1
+pip install pandas==1.0.1
+pip install numpy==1.18.1
+pip install scipy==1.4.1
+pip install matplotlib==3.1.3
